@@ -1,0 +1,11 @@
+ Python libraries
+
+# Numpy
+# Pandas
+# OpneCV for Python
+# TensorFlows
+# Keras
+# Matplotlib
+#
+#
+
